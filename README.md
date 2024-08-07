@@ -50,118 +50,118 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 
 ## 👨🏻‍🎓 Beginner
 
--  [Day 01](day01): Working with Variables in Python to Manage Data
-- [Day 02](day02): Understanding Data Types and How to Manipulate Strings
-- [Day 03](day03): Control Flow and Logical Operators
-- [Day 04](day04): Randomisation and Python Lists
-- [Day 05](day05): Python Loops
-- [Day 06](day06): Python Functions & Karel
-- [Day 07](day07): Hangman
-- [Day 08](day08): Function Parameters & Caesar Cipher
-- [Day 09](day09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day10): Function Return Values and the Calculator Project
-- [Day 11](day11): Blackjack Capstone Project
-- [Day 12](day12): Scope and Namespacing in Python
-- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day14): Higher Lower Game Project
+- [Day 01](/Day%201/): Working with Variables in Python to Manage Data
+- [Day 02](/Day%202/): Understanding Data Types and How to Manipulate Strings
+- [Day 03](/Day%203/): Control Flow and Logical Operators
+- [Day 04](/Day%204/): Randomisation and Python Lists
+- [Day 05](/Day%205/): Python Loops
+- [Day 06](/Day%206/): Python Functions & Karel
+- [Day 07](/Day%207/): Hangman
+- [Day 08](/Day%208/): Function Parameters & Caesar Cipher
+- [Day 09](/Day%209/): Dictionaries, Nesting and the Secret Auction
+- [Day 10](/Day%2010/): Function Return Values and the Calculator Project
+- [Day 11](/Day%2011/): Blackjack Capstone Project
+- [Day 12](/Day%2012/): Scope and Namespacing in Python
+- [Day 13](/Day%2013/): Debugging: How to Find and Fix Errors in your Code
+- [Day 14](/Day%2014/): Higher Lower Game Project
 
 ## 🏋🏻‍♂️ Intermediate
 
-- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](day16): Object Oriented Programming (OOP)
-- [Day 17](day17): The Quiz Project & the Benefits of OOP
-- [Day 18](day18): Turtle Graphics and GUIs
-- [Day 19](day19): Instances, State and Higher Order Functions
-- [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22](day22): Build Pong: The Famous Arcade Game
-- [Day 23](day23): The Turtle Crossing Capstone Project
-- [Day 24](day24): Files, Directories and Paths
-- [Day 25](day25): Working with CSV Data and the Pandas Library
-- [Day 26](day26): List Comprehension & the NATO Pilot's Alphabet
-- [Day 27](day27): Tkinter, *args, **kwargs and Creating GUI Programs
-- [Day 28](day28): Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- [Day 29](day29): Building a Password Manager GUI App with Tkinter
-- [Day 30](day30): Errors, Exceptions and JSON Data: Improving the Password Manager
-- [Day 31](day31): Capstone Project - Flash Card App
+- [Day 15](/Day%2015/): Local Development Environment Setup & the Coffee Machine Project
+- [Day 16](/Day%2016/): Object Oriented Programming (OOP)
+- [Day 17](/Day%2017/): The Quiz Project & the Benefits of OOP
+- [Day 18](/Day%2018/): Turtle Graphics and GUIs
+- [Day 19](/Day%2019/): Instances, State and Higher Order Functions
+- [Day 20](/Day%2020/): Build the Snake Game Part 1: Animation & Coordinates
+- [Day 21](/Day%2021/): Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22](/Day%2022/): Build Pong: The Famous Arcade Game
+- [Day 23](/Day%2023/): The Turtle Crossing Capstone Project
+- [Day 24](/Day%2024/): Files, Directories and Paths
+- [Day 25](/Day%2025/): Working with CSV Data and the Pandas Library
+- [Day 26](/Day%2026/): List Comprehension & the NATO Pilot's Alphabet
+- [Day 27](/Day%2027/): Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28](/Day%2028/): Tkinter, Dynamic Typing and the Pomodoro GUI Application
+- [Day 29](/Day%2029/): Building a Password Manager GUI App with Tkinter
+- [Day 30](/Day%2030/): Errors, Exceptions and JSON Data: Improving the Password Manager
+- [Day 31](/Day%2031/): Capstone Project - Flash Card App
 
 ## 💪 Intermediate+
 
-- [Day 32](day32): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
-- [Day 33](day33): API Endpoints and API Parameters - ISS Overhead Notifier
-- [Day 34](day34): API Practice - Creating a GUI Quiz App
-- [Day 35](day35): Keys, Authentication & Environment Variables: Send SMS
-- [Day 36](day36): Stock Trading News Alert Project
-- [Dau 37](day37): Habit Tracking Pixel Project
-- [Day 38](day38): Build a Workout Tracking App that Talks to Google Sheets!
-- [Day 39](day39): Capstone Part 1: Flight Deal Finder
-- [Day 40](day40): Capstone Part 2: Flight Club!
-- [Day 41](day41): Introduction to HTML
-- [Day 42](day42): Intermediate HTML
-- [Day 43](day43): Introduction to CSS
-- [Day 44](day44): Intermediate CSS
-- [Day 45](day45): Web Scraping with Beautiful Soup
-- [Day 46](day46): Create a Spotify Playlist using the Musical Time Machine
-- [Day 47](day47): Create an Automated Amazon Price Tracker
-- [Day 48](day48): Selenium Webdriver and Game Playing Bot
-- [Day 49](day49): Automating Job Applications on LinkedIn
-- [Day 50](day50): Automated Tinder Swiper
-- [Day 51](day51): Internet Speed Twitter Complaint Bot
-- [Day 52](day52): Instagram Follower Bot
-- [Day 53](day53): Automated Data Entry Job
-- [Day 54](day54): Introduction to Web Development with Flask
-- [Day 55](day55): HTML & URL Parsing in Flask and the Higher Lower Game
-- [Day 56](day56): Rendering HTML/Static Files and Name Card Project
-- [Day 57](day57): Templating with Jinja and Blog Project
-- [Day 58](day58): Bootstrap
+- [Day 32](/Day%2032/): Send Email (smtplib) & Manage Dates (datetime): The Automated Birthday Wisher
+- [Day 33](/Day%2033/): API Endpoints and API Parameters - ISS Overhead Notifier
+- [Day 34](/Day%2034/): API Practice - Creating a GUI Quiz App
+- [Day 35](/Day%2035/): Keys, Authentication & Environment Variables: Send SMS
+- [Day 36](/Day%2036/): Stock Trading News Alert Project
+- [Dau 37](/Day%2037/): Habit Tracking Pixel Project
+- [Day 38](/Day%2038/): Build a Workout Tracking App that Talks to Google Sheets!
+- [Day 39](/Day%2039/): Capstone Part 1: Flight Deal Finder
+- [Day 40](/Day%2040/): Capstone Part 2: Flight Club!
+- [Day 41](/Day%2041/): Introduction to HTML
+- [Day 42](/Day%2042/): Intermediate HTML
+- [Day 43](/Day%2043/): Introduction to CSS
+- [Day 44](/Day%2044/): Intermediate CSS
+- [Day 45](/Day%2045/): Web Scraping with Beautiful Soup
+- [Day 46](/Day%2046/): Create a Spotify Playlist using the Musical Time Machine
+- [Day 47](/Day%2047/): Create an Automated Amazon Price Tracker
+- [Day 48](/Day%2048/): Selenium Webdriver and Game Playing Bot
+- [Day 49](/Day%2049/): Automating Job Applications on LinkedIn
+- [Day 50](/Day%2050/): Automated Tinder Swiper
+- [Day 51](/Day%2051/): Internet Speed Twitter Complaint Bot
+- [Day 52](/Day%2052/): Instagram Follower Bot
+- [Day 53](/Day%2053/): Automated Data Entry Job
+- [Day 54](/Day%2054/): Introduction to Web Development with Flask
+- [Day 55](/Day%2055/): HTML & URL Parsing in Flask and the Higher Lower Game
+- [Day 56](/Day%2056/): Rendering HTML/Static Files and Name Card Project
+- [Day 57](/Day%2057/): Templating with Jinja and Blog Project
+- [Day 58](/Day%2058/): Bootstrap
 
 ## 🚀 Advanced
 
-- [Day 59](day59): Upgraded Blog with Bootstrap
-- [Day 60](day60): HTML Forms with Flask
-- [Day 61](day61): Building Advanced Forms with WTForms
-- [Day 62](day62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
-- [Day 63](day63): Databases and with SQLite and SQLAlchemy
-- [Day 64](day64): My Top 10 Movies Website
-- [Day 65](day65): Web Design School - How to Create a Website that People will Love
-- [Day 66](day66): Building Your Own API with RESTful Routing
-- [Day 67](day67): Blog Capstone Project Part 3 - RESTful Routing
-- [Day 68](day68): Authentication with Flask
-- [Day 69](day69): Blog Capstone Project Part 4 - Adding Users
-- [Day 70](day70): Deploying Your Web Application with Heroku
-- [Day 71](day71): Data Exploration with Pandas: College Major
-- [Day 72](day72): Data Visualisation with Matplotlib: Programming Languages
-- [Day 73](day73): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
-- [Day 74](day74): Google Trends Data: Resampling and Visualising Time Series
-- [Day 75](day75): Beautiful Plotly Charts & Analysing the Android App Store
-- [Day 76](day76): Computation with NumPy and N-Dimensional Arrays
-- [Day 77](day77): Linear Regression and Data Visualisation with Seaborn
-- [Day 78](day78): Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-- [Day 79](day79): The Tragic Discovery of Handwashing: t-Tests & Distributions
-- [Day 80](day80): Capstone Project - Predict House Prices
+- [Day 59](/Day%2059/): Upgraded Blog with Bootstrap
+- [Day 60](/Day%2060/): HTML Forms with Flask
+- [Day 61](/Day%2061/): Building Advanced Forms with WTForms
+- [Day 62](/Day%2062/): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- [Day 63](/Day%2063/): Databases and with SQLite and SQLAlchemy
+- [Day 64](/Day%2064/): My Top 10 Movies Website
+- [Day 65](/Day%2065/): Web Design School - How to Create a Website that People will Love
+- [Day 66](/Day%2066/): Building Your Own API with RESTful Routing
+- [Day 67](/Day%2067/): Blog Capstone Project Part 3 - RESTful Routing
+- [Day 68](/Day%2068/): Authentication with Flask
+- [Day 69](/Day%2069/): Blog Capstone Project Part 4 - Adding Users
+- [Day 70](/Day%2070/): Deploying Your Web Application with Heroku
+- [Day 71](/Day%2071/): Data Exploration with Pandas: College Major
+- [Day 72](/Day%2072/): Data Visualisation with Matplotlib: Programming Languages
+- [Day 73](/Day%2073/): Aggregate & Merge Data with Pandas: Analyse the LEGO Dataset
+- [Day 74](/Day%2074/): Google Trends Data: Resampling and Visualising Time Series
+- [Day 75](/Day%2075/): Beautiful Plotly Charts & Analysing the Android App Store
+- [Day 76](/Day%2076/): Computation with NumPy and N-Dimensional Arrays
+- [Day 77](/Day%2077/): Linear Regression and Data Visualisation with Seaborn
+- [Day 78](/Day%2078/): Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [Day 79](/Day%2079/): The Tragic Discovery of Handwashing: t-Tests & Distributions
+- [Day 80](/Day%2080/): Capstone Project - Predict House Prices
 
 ## 👨‍💻 Professional
 
-- [Day 81](day81): Portfolio Project - Text to Morse Code Converter
-- [Day 82](day82): Portfolio Project - A website to show off your skills and the things I built
-- [Day 83](day83): Portfolio Project - Built a text-based version of the Tic Tac Toe game
-- [Day 84](day84): Portfolio Project - A program where you can upload images and add a watermark
-- [Day 85](day85): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
-- [Day 86](day86): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
-- [Day 87](day87): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
-- [Day 88](day88): Portfolio Project - Built a todo list website with Flask
-- [Day 89](day89): Portfolio Project - Disappearing Text Writing App
-- [Day 90](day90): Portfolio Project - Convert PDF to Audiobook
-- [Day 91](day91): Portfolio Project - Image Colour Palette Generator
-- [Day 92](day92): Portfolio Project - Built a custom web scraper to collect data
-- [Day 93](day93): Portfolio Project - Automate the Google Dinosaur Game
-- [Day 94](day94): Portfolio Project - Space Invaders
-- [Day 95](day95): Portfolio Project - Built a custom website using an API
-- [Day 96](day96): Portfolio Project - An eCommerce website with payment processing
-- [Day 97](day97): Portfolio Project - Sent a WhatsApp Message with Python
-- [Day 98](day98): Portfolio Project - Analysed and Visualise the Space Race
-- [Day 99](day99): Portfolio Project - Analyzing Deaths involving Police in the United States
-- [Day 100](day100): Portfolio Project - Predicting Earnings using Multivariable Regression
+- [Day 81](/Day%2081/): Portfolio Project - Text to Morse Code Converter
+- [Day 82](/Day%2082/): Portfolio Project - A website to show off your skills and the things I built
+- [Day 83](/Day%2083/): Portfolio Project - Built a text-based version of the Tic Tac Toe game
+- [Day 84](/Day%2084/): Portfolio Project - A program where you can upload images and add a watermark
+- [Day 85](/Day%2085/): Portfolio Project - A Tkinter GUI desktop application that tests your typing speed
+- [Day 86](/Day%2086/): Portfolio Project - Using Python Turtle, build a clone of the 80s hit game Breakout
+- [Day 87](/Day%2087/): Portfolio Project - Built a website that lists cafes with wifi and power for remote working
+- [Day 88](/Day%2088/): Portfolio Project - Built a todo list website with Flask
+- [Day 89](/Day%2089/): Portfolio Project - Disappearing Text Writing App
+- [Day 90](/Day%2090/): Portfolio Project - Convert PDF to Audiobook
+- [Day 91](/Day%2091/): Portfolio Project - Image Colour Palette Generator
+- [Day 92](/Day%2092/): Portfolio Project - Built a custom web scraper to collect data
+- [Day 93](/Day%2093/): Portfolio Project - Automate the Google Dinosaur Game
+- [Day 94](/Day%2094/): Portfolio Project - Space Invaders
+- [Day 95](/Day%2095/): Portfolio Project - Built a custom website using an API
+- [Day 96](/Day%2096/): Portfolio Project - An eCommerce website with payment processing
+- [Day 97](/Day%2097/): Portfolio Project - Sent a WhatsApp Message with Python
+- [Day 98](/Day%2098/): Portfolio Project - Analysed and Visualise the Space Race
+- [Day 99](/Day%2099/): Portfolio Project - Analyzing Deaths involving Police in the United States
+- [Day 100](/Day%20100/): Portfolio Project - Predicting Earnings using Multivariable Regression
 
 ## Resources
 
