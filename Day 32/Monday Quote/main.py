@@ -15,7 +15,7 @@ MY_PASSWORD = os.getenv('PASSWORD')
 now = dt.datetime.now()
 weekday = now.weekday()
 
-if True:
+if weekday == 0:
     # Open and read quotes from the text file
     with open(r"Day 32/Monday Quote/quotes.txt", encoding="utf-8") as quote_file:
         all_quotes = quote_file.readlines()
