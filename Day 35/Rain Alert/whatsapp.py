@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 
 # Load environment variables from the .env file
-load_dotenv()
+load_dotenv(".venv/.env")
 
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
 api_key = os.getenv("OWM_API_KEY")

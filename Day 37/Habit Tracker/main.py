@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 # Load environment variables from the .env file
-load_dotenv()
+load_dotenv(".venv/.env")
 
 USERNAME = os.getenv("PIXELA_USERNAME")
 TOKEN = os.getenv("PIXELA_TOKEN")

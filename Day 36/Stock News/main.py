@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import os
 
 # Load environment variables from the .env file
-load_dotenv()
+load_dotenv(".venv/.env")
 
 TWILIO_WHATSAPP_NUMBER = os.getenv("TWILIO_WHATSAPP_NUMBER") # YOUR TWILIO WHATSAPP NUMBER
 VERIFIED_NUMBER = os.getenv("PHONE_NUMBER") #YOUR TWILIO VERIFIED REAL NUMBER

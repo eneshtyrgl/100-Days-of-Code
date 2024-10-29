@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import os
 
 # Load environment variables from the .env file
-load_dotenv()
+load_dotenv(".venv/.env")
 
 MY_EMAIL = os.getenv('EMAIL')
 MY_PASSWORD = os.getenv('PASSWORD')

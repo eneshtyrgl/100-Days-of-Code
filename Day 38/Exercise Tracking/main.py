@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 
 # Load environment variables from the .env file
-load_dotenv()
+load_dotenv(".venv/.env")
 
 GENDER = os.getenv("GENDER")
 WEIGHT_KG = os.getenv("WEIGHT_KG")
