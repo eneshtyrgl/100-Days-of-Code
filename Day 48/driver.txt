@@ -1,0 +1,13 @@
+sudo pacman -S geckodriver
+
+https://github.com/mozilla/geckodriver
+
+
+from selenium.webdriver.firefox.options import Options
+
+# Keep Firefox browser open after program finishes
+firefox_options = Options()
+firefox_options.set_preference("detach", True)
+
+# Create and configure the Firefox webdriver
+driver = webdriver.Firefox(options=firefox_options)
