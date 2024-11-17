@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en" data-darkreader-mode="dynamic" data-darkreader-scheme="dark" class=" dxmpsyfe idc0_350"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style class="darkreader darkreader--fallback" media="screen"></style><style class="darkreader darkreader--text" media="screen"></style><style class="darkreader darkreader--invert" media="screen">.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"], span[data-href^="https://www.hcaptcha.com/"] > #icon, img.Wirisformula {
+    filter: invert(100%) hue-rotate(180deg) contrast(90%) !important;
+}</style><style class="darkreader darkreader--inline" media="screen">[data-darkreader-inline-bgcolor] {
+  background-color: var(--darkreader-inline-bgcolor) !important;
+}
+[data-darkreader-inline-bgimage] {
+  background-image: var(--darkreader-inline-bgimage) !important;
+}
+[data-darkreader-inline-border] {
+  border-color: var(--darkreader-inline-border) !important;
+}
+[data-darkreader-inline-border-bottom] {
+  border-bottom-color: var(--darkreader-inline-border-bottom) !important;
+}
+[data-darkreader-inline-border-left] {
+  border-left-color: var(--darkreader-inline-border-left) !important;
+}
+[data-darkreader-inline-border-right] {
+  border-right-color: var(--darkreader-inline-border-right) !important;
+}
+[data-darkreader-inline-border-top] {
+  border-top-color: var(--darkreader-inline-border-top) !important;
+}
+[data-darkreader-inline-boxshadow] {
+  box-shadow: var(--darkreader-inline-boxshadow) !important;
+}
+[data-darkreader-inline-color] {
+  color: var(--darkreader-inline-color) !important;
+}
+[data-darkreader-inline-fill] {
+  fill: var(--darkreader-inline-fill) !important;
+}
+[data-darkreader-inline-stroke] {
+  stroke: var(--darkreader-inline-stroke) !important;
+}
+[data-darkreader-inline-outline] {
+  outline-color: var(--darkreader-inline-outline) !important;
+}
+[data-darkreader-inline-stopcolor] {
+  stop-color: var(--darkreader-inline-stopcolor) !important;
+}
+[data-darkreader-inline-bg] {
+  background: var(--darkreader-inline-bg) !important;
+}
+[data-darkreader-inline-invert] {
+    filter: invert(100%) hue-rotate(180deg);
+}</style><style class="darkreader darkreader--variables" media="screen">:root {
+   --darkreader-neutral-background: #181a1b;
+   --darkreader-neutral-text: #e8e6e3;
+   --darkreader-selection-background: #004daa;
+   --darkreader-selection-text: #e8e6e3;
+}</style><style class="darkreader darkreader--root-vars" media="screen"></style><style class="darkreader darkreader--user-agent" media="screen">@layer {
+html {
+    background-color: #181a1b !important;
+}
+html {
+    color-scheme: dark !important;
+}
+iframe {
+    color-scheme: dark !important;
+}
+html, body {
+    background-color: #181a1b;
+}
+html, body {
+    border-color: #736b5e;
+    color: #e8e6e3;
+}
+a {
+    color: #3391ff;
+}
+table {
+    border-color: #545b5e;
+}
+mark {
+    color: #e8e6e3;
+}
+::placeholder {
+    color: #b2aba1;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: #404400 !important;
+    color: #e8e6e3 !important;
+}
+::selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+::-moz-selection {
+    background-color: #004daa !important;
+    color: #e8e6e3 !important;
+}
+}</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bootstrap Layout Exercises</title>
+  <link href="style.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous"><style class="darkreader darkreader--sync" media="screen"></style>
+  <style>
+    body {
+      margin-top: 50px;
+      background-color: #f0f0f0;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .flex-container {
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: start;
+      margin-top: 50px;
+      border-bottom: 50px solid transparent;
+    }
+
+    textarea {
+      width: 100%;
+      min-height: 150px;
+      resize: vertical;
+      font-family: monospace;
+      background-color: #ddd;
+    }
+
+    button {
+      margin-top: 10px;
+      padding: 10px 20px;
+      background-color: #4285f4;
+      color: white;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .parent {
+      width: 80%;
+      background-color: #ddd;
+      padding: 20px;
+      margin: 2rem;
+    }
+
+    .child {
+      background-color: seagreen;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid white;
+    }
+
+    .test-parent {
+      width: 80%;
+      background-color: #ddd;
+      padding: 20px;
+      margin: 2rem;
+    }
+
+    .test-parent>*>* {
+      background-color: darkviolet;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid goldenrod;
+    }
+
+    .test2 {
+      background-color: salmon;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid white;
+    }
+
+    .solution2>*>* {
+      background-color: cadetblue;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid white;
+    }
+
+    .test3 {
+      background-color: royalblue;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid white;
+    }
+
+    .solution3>*>* {
+      background-color: darkslategrey;
+      color: white;
+      font-size: 18px;
+      padding: 20px;
+      border: 2px solid white;
+    }
+  </style><style class="darkreader darkreader--sync" media="screen"></style>
+<meta name="darkreader" content="e45b325991414d9d82e1bde9ea0f71c1"><style class="darkreader darkreader--override" media="screen">.vimvixen-hint {
+    background-color: #684b00 !important;
+    border-color: #9e7e00 !important;
+    color: #d7d4cf !important;
+}
+#vimvixen-console-frame {
+    color-scheme: light !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: #1b4958 !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: #0f3a47 !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: #1e2021 !important;
+}
+.tou-uknfeu {
+    background-color: #432c09 !important;
+}
+.tou-6i3zyv {
+    background-color: #245d70 !important;
+}
+div.mermaid-viewer-control-panel .btn {
+    background-color: var(--darkreader-neutral-background);
+    fill: var(--darkreader-neutral-text);
+}
+svg g rect.er {
+    fill: var(--darkreader-neutral-background) !important;
+}
+svg g rect.er.entityBox {
+    fill: var(--darkreader-neutral-background) !important;
+}
+svg g rect.er.attributeBoxOdd {
+    fill: var(--darkreader-neutral-background) !important;
+}
+svg g rect.er.attributeBoxEven {
+    fill: var(--darkreader-selection-background);
+    fill-opacity: 0.8 !important;
+}
+svg rect.er.relationshipLabelBox {
+    fill: var(--darkreader-neutral-background) !important;
+}
+svg g g.nodes rect,
+svg g g.nodes polygon {
+    fill: var(--darkreader-neutral-background) !important;
+}
+svg g rect.task {
+    fill: var(--darkreader-selection-background) !important;
+}
+svg line.messageLine0,
+svg line.messageLine1 {
+    stroke: var(--darkreader-neutral-text) !important;
+}
+div.mermaid .actor {
+    fill: var(--darkreader-neutral-background) !important;
+}
+mitid-authenticators-code-app > .code-app-container {
+    background-color: white !important;
+    padding-top: 1rem;
+}
+iframe#unpaywall[src$="unpaywall.html"] {
+    color-scheme: light !important;
+}
+embed[type="application/pdf"] { filter: invert(100%) contrast(90%); }</style></head>
+
+<body data-new-gr-c-s-check-loaded="8.912.0" data-gr-ext-installed="">
+  <h1>Bootstrap Layout Exercise</h1>
+
+  <div class="flex-container">
+    <h2>Exercise 1</h2>
+    <div class="container parent">
+      <div class="row">
+        <div class="col-xl-6 child">50% desktop, 100% mobile</div>
+        <div class="col-xl-6 child">50% desktop, 100% mobile</div>
+      </div>
+    </div>
+    <div class="container test-parent" id="test1">
+      <div class="row">
+        <div class="">50% desktop, 100% mobile</div>
+        <div class="">50% desktop, 100% mobile</div>
+      </div>
+    </div>
+    <div class="container">
+      <textarea id="test-1-code" placeholder="Write your CSS code here..." rows="5">&lt;!-- Modify the HTML code for the purple boxes below so it behaves like the green ones. --&gt;
+  &lt;div class="row"&gt;
+    &lt;div class=""&gt;50% desktop, 100% mobile&lt;/div&gt;
+    &lt;div class=""&gt;50% desktop, 100% mobile&lt;/div&gt;
+  &lt;/div&gt;
+  
+    </textarea>
+    </div>
+
+    <button onclick="applyTest1()">Apply Changes</button>
+
+    <script>
+      function applyTest1() {
+        const userCss = document.getElementById('test-1-code').value;
+        const test1 = document.getElementById('test1');
+        test1.innerHTML = userCss;
+      }
+    </script>
+  </div>
+
+  <div class="flex-container">
+    <h2>Exercise 2</h2>
+    <div class="container parent">
+      <div class="row">
+        <div class="col-lg-6 col-sm-12 col-10 child test2">Column 1</div>
+        <div class="col-lg-3 col-sm-6 col-10 child test2">Column 2</div>
+        <div class="col-lg-3 col-sm-6 col-10 child test2">Column 3</div>
+      </div>
+    </div>
+    <div class="container test-parent  solution2" id="test2">
+      <div class="row">
+        <div class="">Column 1</div>
+        <div class="">Column 2</div>
+        <div class="">Column 3</div>
+      </div>
+    </div>
+    <div class="container">
+      <textarea id="test-2-code" rows="5">  &lt;!-- Modify the HTML below to make the blue boxes behave like the red ones. --&gt;
+  &lt;div class="row"&gt;
+    &lt;div class=""&gt;Column 1&lt;/div&gt;
+    &lt;div class=""&gt;Column 2&lt;/div&gt;
+    &lt;div class=""&gt;Column 3&lt;/div&gt;
+  &lt;/div&gt;
+      
+        </textarea>
+    </div>
+
+    <button onclick="applyTest2()">Apply Changes</button>
+
+    <script>
+      function applyTest2() {
+        const userCss = document.getElementById('test-2-code').value;
+        const test1 = document.getElementById('test2');
+        test1.innerHTML = userCss;
+      }
+    </script>
+  </div>
+  <div class="flex-container">
+    <h2>Exercise 3</h2>
+    <div class="container parent">
+      <div class="row">
+        <div class="col-xxl-1 col-xl-2 col-lg-4 col-md-6 col-sm-12 child test3">Column 1</div>
+        <div class="col-xxl-11 col-xl-10 col-lg-8 col-md-6 col-sm-12 child test3">Column 2</div>
+      </div>
+    </div>
+    <div class="container test-parent  solution3" id="test3">
+      <div class="row">
+        <div class="">Column 1</div>
+        <div class="">Column 2</div>
+      </div>
+    </div>
+    <div class="container">
+      <textarea id="test-3-code" rows="5">      &lt;!-- Modify the HTML below to make the indigo boxes behave like the blue ones. --&gt;
+      &lt;div class="row"&gt;
+        &lt;div class=""&gt;Column 1&lt;/div&gt;
+        &lt;div class=""&gt;Column 2&lt;/div&gt;
+      &lt;/div&gt;
+          
+            </textarea>
+    </div>
+
+    <button onclick="applyTest3()">Apply Changes</button>
+
+    <script>
+      function applyTest3() {
+        const userCss = document.getElementById('test-3-code').value;
+        const test1 = document.getElementById('test3');
+        test1.innerHTML = userCss;
+      }
+    </script>
+  </div>
+
+
+
+<deepl-input-controller></deepl-input-controller></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
