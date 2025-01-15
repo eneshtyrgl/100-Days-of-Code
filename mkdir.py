@@ -1,8 +1,8 @@
 import os
 
-# Create 100 directories named 'Day 1', 'Day 2', ..., 'Day 100'
+# Create 100 directories named '001', '002', ..., '100'
 for day in range(1, 101):
-    directory_name = f"Day {day}"
+    directory_name = f"{day:03}"
     print(f"Creating directory: {directory_name}")
     try:
         os.mkdir(directory_name)
@@ -12,4 +12,3 @@ for day in range(1, 101):
         print(f"Permission denied: Unable to create '{directory_name}'.")
     except Exception as e:
         print(f"An error occurred: {e}")
-        
