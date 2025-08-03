@@ -24,20 +24,28 @@ _To explore into this repository, follow these steps:_
 
   ```bash
   git clone https://github.com/eneshtyrgl/100-Days-of-Code.git
-- **Add This repo as Remote**  :
+  ```
+
+- **Add This repo as Remote** :
 
   ```bash
   git remote add origin https://github.com/eneshtyrgl/100-Days-of-Code.git
+
+  ```
 
 - **Create and Switch to Your Branch** :
 
   ```bash
   git checkout -b YourBranchName
 
+  ```
+
 - **push your changes** to this branch :
 
   ```bash
   git push --set-upstream origin DEV/{your_name}/{in which you working on}
+
+  ```
 
 - **Create a Python Virtual Environment** :
 
@@ -105,7 +113,7 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 - [Day 24](/024/): Files, Directories and Paths
 - [Day 25](/025/): Working with CSV Data and the Pandas Library
 - [Day 26](/026/): List Comprehension & the NATO Pilot's Alphabet
-- [Day 27](/027/): Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 27](/027/): Tkinter, \*args, \*\*kwargs and Creating GUI Programs
 - [Day 28](/028/): Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29](/029/): Building a Password Manager GUI App with Tkinter
 - [Day 30](/030/): Errors, Exceptions and JSON Data: Improving the Password Manager
@@ -191,10 +199,10 @@ For more information about the course and to enroll, visit [Angela Yu's website]
 
 ## Resources
 
-* [Official Python Documentation](https://docs.python.org/3/)
-* [PyCharm Community Edition](https://jb.gg/getPyCharm)
-* [PyCharm Free Student License](https://jb.gg/GetStudentLicense)
-* [Angela Yu Course link](https://www.udemy.com/course/100-days-of-code/)
+- [Official Python Documentation](https://docs.python.org/3/)
+- [PyCharm Community Edition](https://jb.gg/getPyCharm)
+- [PyCharm Free Student License](https://jb.gg/GetStudentLicense)
+- [Angela Yu Course link](https://www.udemy.com/course/100-days-of-code/)
 
 ## Connect
 
