@@ -39,6 +39,32 @@ _To explore into this repository, follow these steps:_
   ```bash
   git push --set-upstream origin DEV/{your_name}/{in which you working on}
 
+- **Create a Python Virtual Environment** :
+
+  ```bash
+  python -m venv .venv
+  ```
+
+- **Activate Virtual Environment (Fish Shell)** :
+
+  ```bash
+  source .venv/bin/activate.fish
+  ```
+
+- **Install Required Packages** :
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+- **Deactivate Virtual Environment** :
+
+  ```bash
+  deactivate
+  ```
+
+> **Note**: Virtual environment will create a `.venv` folder and environment variables can be stored in a `.env` file in the project root.
+
 ## About the Course
 
 The "100 Days of Python" bootcamp by Angela Yu is a comprehensive course designed to take learners from Python basics to
