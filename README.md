@@ -51,16 +51,16 @@ _To explore into this repository, follow these steps:_
   source .venv/bin/activate.fish
   ```
 
-- **Install Required Packages** :
-
-  ```bash
-  pip install -r requirements.txt
-  ```
-
 - **Deactivate Virtual Environment** :
 
   ```bash
   deactivate
+  ```
+
+- **Install Required Packages** :
+
+  ```bash
+  pip install -r 'requirements.txt'
   ```
 
 > **Note**: Virtual environment will create a `.venv` folder and environment variables can be stored in a `.env` file in the project root.
